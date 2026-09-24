@@ -1,3 +1,4 @@
+
 # 🤖 AI Resume Analyzer & Job Matcher
 
 An AI-powered web application that analyzes resumes, compares them with job descriptions, identifies skill gaps, evaluates resume quality, and recommends suitable job roles.
@@ -231,24 +232,8 @@ Do not commit personal resumes, .env files, credentials, or other sensitive info
 - Cloud deployment
 - User accounts and resume history
 
----
-## 🌐 Live Demo
-
-🚀 **Live Application:**  
-https://ai-resume-job-matcher-alq2cazapx2fhzhonsqmrg.streamlit.app/
-
-## 🔗 GitHub Repository
-
-https://github.com/rinkitala-commits/ai-resume-job-matcher
-
----
-
-## 👩‍💻 Author
-
-### Jhumarani Tala
-
-B.Tech Data Science Student | Python Developer | Data Science & AI Enthusiast
-
 ## ⭐ Project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
+=======
+
